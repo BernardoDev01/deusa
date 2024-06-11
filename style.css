@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Pinyon+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pinyon+Script&family=Simonetta:ital,wght@0,400;0,900;1,400;1,900&display=swap');
+
+body {
+    background-size: 50%;
+    background-image: url(florzinha.jpeg);
+    position: center center;
+    background-attachment: fixed;
+    background-attachment: scroll;
+    
+}
+
+h1 {
+    font-family: "Pinyon Script", cursive;
+    font-size: 60px;
+    color: black;
+    text-align: center;
+    margin: 0;
+    background-color: rgba(255, 255, 255, 0.363)
+
+}
+p {
+    font-family: "Simonetta";
+    font-size: 40px;
+    color: black;
+    text-align: center;
+    margin: 0;
+    background-color: rgba(255, 255, 255, 0.363)
+}
+
+div{
+    margin: auto;
+    text-align: center;
+}
+
+img{
+    width: 400px;
+    border: 1px;
+    border-radius: 20px;
+}
+
+audio {
+    margin: auto;
+    text-align: center;
+}
